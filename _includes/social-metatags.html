@@ -18,8 +18,8 @@
 
 {%if page.image %}
   {% assign page_image = page.image | absolute_url %}
-{%else if site.image %}
-  {% assign page_image = site.image | absolute_url %}
+{%else if site.logo %}
+  {% assign page_image = site.logo | absolute_url %}
 {%endif %}
 
 {% assign abs_url = '' | absolute_url %}
