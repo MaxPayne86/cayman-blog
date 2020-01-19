@@ -4,7 +4,7 @@ logo: assets/images/aida_dsp_logo1.png
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "http://aidadsp.cc" # change this to the base hostname & protocol for your site
+url: "https://aidadsp.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics: UA-150273545-1
 
