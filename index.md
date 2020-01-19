@@ -8,10 +8,25 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+## Products
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+- [Aida DSP Arduino Shield]({{ '/aida_dsp_arduino_shield.html' | absolute_url }})
 
-Have a look at the Github page for more information.
+- [Aida DSP OS (NEW!!!)]({{ '/aida_dsp_os.html' | absolute_url }})
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+- [Aida DSP Stompbox]({{ '/aida_dsp_stompbox.html' | absolute_url }})
+
+## Consulting services
+
+Do you need help with your next innovative audio product? We have 6 years of experience
+in digital audio and we have more than 10 years of experience in consulting activities!
+
+## Open source & developers
+
+- [Aida DSP Arduino library](https://github.com/AidaDSP/AidaDSP/tree/master/Software/Libraries)
+
+- [Aida DSP OS sdk (NEW!!!)](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
+
+- [How-to create your soundfont in SFZ format (NEW!!!)]({{ '/howto_make_your_own_sfz_soundfont.html' | absolute_url }})
+
+- [How-to develop your own lv2 plugin using the sdk (NEW!!!)]({{ '/howto_sdk_lv2_plugins.html' | absolute_url }})

@@ -1,11 +1,16 @@
 ---
+image: assets/images/contact1.jpeg
+description:
+
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline:
+permalink: /contact.html
 ref: contact
-order: 1
+order: 0
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+## Contact
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+- We are located in Venaria Reale, 10078 Torino, Italy
+- Send a message or follow us on [Facebook](https://www.facebook.com/official.AidaDSP)
