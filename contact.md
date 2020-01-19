@@ -14,3 +14,5 @@ order: 0
 
 - We are located in Venaria Reale, 10078 Torino, Italy
 - Send a message or follow us on [Facebook](https://www.facebook.com/official.AidaDSP)
+
+[Go to the Home Page]({{ '/' | absolute_url }})

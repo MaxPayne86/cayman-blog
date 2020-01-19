@@ -68,3 +68,5 @@ own audio effect without sacrifycing the sound quality
 **Manufacturing:**
 
 ![PCBWay](assets/images/pcbway_logo1.jpeg)
+
+[Go to the Home Page]({{ '/' | absolute_url }})

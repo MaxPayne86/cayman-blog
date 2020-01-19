@@ -400,3 +400,5 @@ the usage of Aida DSP OS, with the suggested solutions.
 ### Weight
 
 - 0,144 g
+
+[Go to the Home Page]({{ '/' | absolute_url }})

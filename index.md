@@ -27,6 +27,12 @@ in digital audio and we have more than 10 years of experience in consulting acti
 
 - [Aida DSP OS sdk (NEW!!!)](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 
+## How-tos
+
 - [How-to create your soundfont in SFZ format (NEW!!!)]({{ '/howto_make_your_own_sfz_soundfont.html' | absolute_url }})
 
 - [How-to develop your own lv2 plugin using the sdk (NEW!!!)]({{ '/howto_sdk_lv2_plugins.html' | absolute_url }})
+
+## Manuals
+
+- [Aida DSP OS User Manual (NEW!!!)]({{ '/aida_dsp_os_manual.html' | absolute_url }})

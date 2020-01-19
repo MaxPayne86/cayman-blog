@@ -53,3 +53,5 @@ One example? We completely redesigned the electronics to use metallic premium qu
 
 - [ROCK LAB](https://www.rocklab.net/)
 
+[Go to the Home Page]({{ '/' | absolute_url }})
+

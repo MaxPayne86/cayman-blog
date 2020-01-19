@@ -106,3 +106,5 @@ e.g. pure-data application
 `$ echo $CC`
 
 aarch64-poky-linux-gcc --sysroot=/localdisk/massimo/Work/Spare/sdk/yocto/sysroots/aarch64-poky-linux
+
+[Go to the Home Page]({{ '/' | absolute_url }})

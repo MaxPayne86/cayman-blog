@@ -110,3 +110,5 @@ https://www.polyphone-soundfonts.com
 
 - https://sfzformat.com/
 - https://www.linuxsampler.org/sfz/
+
+[Go to the Home Page]({{ '/' | absolute_url }})

@@ -75,7 +75,7 @@ have a low noise USB 5V supply port (i.e. for USB souncard in recording studios)
 ### Resources
 
 - [Quick start]()
-- [Manual V1.00]({{ '/aida_dsp_os_manual.html' | absolute_url }})
+- [User Manual]({{ '/aida_dsp_os_manual.html' | absolute_url }})
 - **Where to BUY:** [Tindie](https://www.tindie.com/products/Maxdsp/aida-dsp-os/)
 - [SDK](https://drive.google.com/drive/folders/1hVDwNKM-71I9deZ_zFdNpo2buZoSFEat?usp=sharing)
 - [SD Image V1.00]()
@@ -105,3 +105,5 @@ have a low noise USB 5V supply port (i.e. for USB souncard in recording studios)
 This product would not exists without the impressive work of the guys at **Moddevices**
 and the big community that they created around their product. We want to actively contribute to the Mod Duo
 community and software and we're looking for the best options to do so.
+
+[Go to the Home Page]({{ '/' | absolute_url }})

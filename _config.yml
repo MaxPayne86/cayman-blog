@@ -26,4 +26,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['products', 'about', 'contact']
+header_page_refs: ['products', 'about', 'contact', 'resources']
