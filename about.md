@@ -19,7 +19,7 @@ our first boards. That was a magic moment for us, but soon we started to face ma
 In 2016 the original team splitted up, leaving Massimo, one of the founders, alone to carry all the project from code development to
 manufacturing and shipping. This inevitably reflected in delays in all the project's areas.
 
-In 2017 we started to develop the idea behind [Aida DSP Stompbox]({{ '/aida_dsp_stompbox.html' | absolute_url }}), in collaboration with [Rocklab](https://www.rocklab.net)
+In 2017 we started to develop the idea behind [Aida DSP Stompbox]({{ '/aida_dsp_stompbox.html' | absolute_url }}), in collaboration with [ROCK LAB](https://www.rocklab.net)
 
 In 2018 the first prototype of [Aida DSP OS]({{ '/aida_dsp_os.html' | absolute_url }}) was presented at [Torino Mini Maker Faire](https://torino.makerfaire.com), where it captured the attention of the public. This new technology, greatly based on open source software, was like new life for us and its potential refreshed our motivation.
 

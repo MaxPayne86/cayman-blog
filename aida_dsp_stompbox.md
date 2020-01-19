@@ -36,7 +36,7 @@ that you had for their album
 ### Endless options and combinations
 
 - Hammond Box die cast aluminium case, CNC machine drilled
-- 2 knobs + 3-way switch or 4 knobs versions
+- Flexible user interface: 2 knobs + 3-way switch or 4 knobs version
 - Dual color 3mm led
 - True bypass switch
 - Anodized aluminium plate with laser printed graphics
